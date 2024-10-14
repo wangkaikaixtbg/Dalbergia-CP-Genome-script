@@ -1,0 +1,162 @@
+### Dalbergia burmanica - RS10
+get_organelle_from_reads.py -1 RS10_FDSW220016238-1r_1.fq.gz -2 RS10_FDSW220016238-1r_2.fq.gz -o plastome_outputSAR10 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia burmanica - RS39
+get_organelle_from_reads.py -1 RS39_R1.fq.gz -2 RS39_R2.fq.gz -o plastome_RS39 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia burmanica - RS40
+get_organelle_from_reads.py -1 RS40_R1.fq.gz -2 RS40_R2.fq.gz -o plastome_RS40 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia odorifera - RS11
+get_organelle_from_reads.py -1 RS11_FDSW220016239-1r_1.fq.gz -2 RS11_FDSW220016239-1r_2.fq.gz -o plastome_outputSAR11 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia odorifera - RS36
+get_organelle_from_reads.py -1 RS36_R1.fq.gz -2 RS36_R2.fq.gz -o plastome_RS6 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia odorifera - RS38
+get_organelle_from_reads.py -1 RS38_R1.fq.gz -2 RS38_R2.fq.gz -o plastome_RS38 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia tonkinensis -RS3
+get_organelle_from_reads.py -1 RS3_FDSW220016231-1r_1.fq.gz -2 RS3_FDSW220016231-1r_2.fq.gz -o plastome_outputSAR3 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia tonkinensis -RS42
+get_organelle_from_reads.py -1 RS42_R1.fq.gz -2 RS42_R2.fq.gz -o plastome_RS42 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia yunnanensis - RS26
+get_organelle_from_reads.py -1 RS26_1.fq.gz -2 RS26_2.fq.gz -o plastome_RS26 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia yunnanensis - RS47
+get_organelle_from_reads.py -1 RS47_R1.fq.gz -2 RS47_R2.fq.gz -o plastome_RS47 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia yunnanensis - RS95
+get_organelle_from_reads.py -1 RS95_R1.fq.gz -2 RS95_R2.fq.gz -o plastome_RS95 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia rimosa - RS2
+get_organelle_from_reads.py -1 RS2_FDSW220016230-1r_1.fq.gz -2 RS2_FDSW220016230-1r_2.fq.gz -o plastome_outputSAR2 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia rimosa - RS43
+get_organelle_from_reads.py -1 RS43_R1.fq.gz -2 RS43_R2.fq.gz -o plastome_RS43 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia rimosa - RS44
+get_organelle_from_reads.py -1 RS44_R1.fq.gz -2 RS44_R2.fq.gz -o plastome_RS44 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia sissoo - RS1
+get_organelle_from_reads.py -1 RS1_FDSW220016229-1r_1.fq.gz -2 RS1_FDSW220016229-1r_2.fq.gz -o plastome_outputSAR1 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia sissoo - RS22
+get_organelle_from_reads.py -1 V350087709_L02_PLAmhsvR181761-683_1.fq.gz -2 V350087709_L02_PLAmhsvR181761-683_2.fq.gz -o plastome_outputSAR22 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia sissoo - RS49
+get_organelle_from_reads.py -1 RS49_R1.fq.gz -2 RS49_R2.fq.gz -o plastome_RS49 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia cultrata - RS20
+get_organelle_from_reads.py -1 RS20_FDSW220016248-1r_1.fq.gz -2 RS20_FDSW220016248-1r_2.fq.gz -o plastome_RS20 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia cultrata - RS15
+get_organelle_from_reads.py -1 RS15_FDSW220016243-1r_1.fq.gz -2 RS15_FDSW220016243-1r_2.fq.gz -o plastome_outputSAR15_1 -R 20 -w 0.55 -k 21,45,65,85,105,127 -F embplant_pt
+### Dalbergia cultrata - RS45
+get_organelle_from_reads.py -1 RS45_R1.fq.gz -2 RS45_R2.fq.gz -o plastome_RS45 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia horrida - RS23
+get_organelle_from_reads.py -1 V350087709_L02_PLAmhsvR181762-684_1.fq.gz -2 V350087709_L02_PLAmhsvR181762-684_2.fq.gz -o plastome_RS23 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia horrida - RS66
+get_organelle_from_reads.py -1 RS66_R1.fq.gz -2 RS66_R2.fq.gz -o plastome_RS66 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia horrida - RS67
+get_organelle_from_reads.py -1 RS67_R1.fq.gz -2 RS67_R2.fq.gz -o plastome_RS67 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia dyeriana - RS4
+get_organelle_from_reads.py -1 RS4_FDSW220016232-1r_1.fq.gz -2 RS4_FDSW220016232-1r_2.fq.gz -o plastome_outputSAR4 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia dyeriana - RS55
+get_organelle_from_reads.py -1 RS55_R1.fq.gz -2 RS55_R2.fq.gz -o plastome_RS55 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia dyeriana - RS56
+get_organelle_from_reads.py -1 RS56_R1.fq.gz -2 RS56_R2.fq.gz -o plastome_RS56 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia hupeana - RS31
+get_organelle_from_reads.py -1 RS31_R1.fq.gz -2 RS31_R2.fq.gz -o plastome_RS31 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia hupeana - RS32
+get_organelle_from_reads.py -1 RS32_R1.fq.gz -2 RS32_R2.fq.gz -o plastome_RS32 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia assamica - RS91
+get_organelle_from_reads.py -1 RS91_R1.fq.gz -2 RS91_R2.fq.gz -o plastome_RS91 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia assamica - RS30
+get_organelle_from_reads.py -1 RS30_R1.fq.gz -2 RS30_R2.fq.gz -o plastome_RS30 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia assamica - RS96
+get_organelle_from_reads.py -1 RS33_R1.fq.gz -2 RS33_R2.fq.gz -o plastome_RS33 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia balansae - RS98
+get_organelle_from_reads.py -1 RS34_R1.fq.gz -2 RS34_R2.fq.gz -o plastome_RS34 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia balansae - RS97
+get_organelle_from_reads.py -1 RS35_R1.fq.gz -2 RS35_R2.fq.gz -o plastome_RS35 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia balansae - RS93
+get_organelle_from_reads.py -1 RS93_R1.fq.gz -2 RS93_R2.fq.gz -o plastome_RS93 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia lanceolaria - RS60
+get_organelle_from_reads.py -1 RS60_R1.fq.gz -2 RS60_R2.fq.gz -o plastome_RS60 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia lanceolaria - RS61
+get_organelle_from_reads.py -1 RS61_R1.fq.gz -2 RS61_R2.fq.gz -o plastome_RS61 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia lanceolaria - RS18
+get_organelle_from_reads.py -1 RS18_FDSW220016246-1r_1.fq.gz -2 RS18_FDSW220016246-1r_2.fq.gz -o plastome_outputSAR18 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia lanceolaria - RS17
+get_organelle_from_reads.py -1 RS17_FDSW220016245-1r_1.fq.gz -2 RS17_FDSW220016245-1r_2.fq.gz -o plastome_outputSAR17 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia lanceolaria - RS75
+get_organelle_from_reads.py -1 RS75_R1.fq.gz -2 RS75_R2.fq.gz -o plastome_RS75 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia lanceolaria - RS76
+get_organelle_from_reads.py -1 RS76_R1.fq.gz -2 RS76_R2.fq.gz -o plastome_RS76 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia obtusifolia - RS12
+get_organelle_from_reads.py -1 RS12_FDSW220016240-1r_1.fq.gz -2 RS12_FDSW220016240-1r_2.fq.gz -o plastome_outputSAR12 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia obtusifolia - RS83
+get_organelle_from_reads.py -1 RS83_R1.fq.gz -2 RS83_R2.fq.gz -o plastome_RS83 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia obtusifolia - RS84
+get_organelle_from_reads.py -1 RS84_R1.fq.gz -2 RS84_R2.fq.gz -o plastome_RS84 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia hainanensis - RS80
+get_organelle_from_reads.py -1 RS80_R1.fq.gz -2 RS80_R2.fq.gz -o plastome_RS80 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia hainanensis - RS81
+get_organelle_from_reads.py -1 RS81_R1.fq.gz -2 RS81_R2.fq.gz -o plastome_RS81 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia hainanensis - RS82
+get_organelle_from_reads.py -1 RS82_R1.fq.gz -2 RS82_R2.fq.gz -o plastome_RS82 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia hainanensis - RS16
+get_organelle_from_reads.py -1 RS16_FDSW220016244-1r_1.fq.gz -2 RS16_FDSW220016244-1r_2.fq.gz -o plastome_outputSAR16 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia sericea - RS71
+get_organelle_from_reads.py -1 RS71_R1.fq.gz -2 RS71_R2.fq.gz -o plastome_RS71 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia sericea - RS72
+get_organelle_from_reads.py -1 RS72_R1.fq.gz -2 RS72_R2.fq.gz -o plastome_RS72 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia lakhonensis - RS19
+get_organelle_from_reads.py -1 RS19_FDSW220016247-1r_1.fq.gz -2 RS19_FDSW220016247-1r_2.fq.gz -o plastome_outputSAR19 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia lakhonensis - RS77
+get_organelle_from_reads.py -1 RS77_R1.fq.gz -2 RS77_R2.fq.gz -o plastome_RS77 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia lakhonensis - RS78
+get_organelle_from_reads.py -1 RS78_R1.fq.gz -2 RS78_R2.fq.gz -o plastome_RS78 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia pinnata - RS87
+get_organelle_from_reads.py -1 RS87_R1.fq.gz -2 RS87_R2.fq.gz -o plastome_RS87 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia pinnata - RS88
+get_organelle_from_reads.py -1 RS88_R1.fq.gz -2 RS88_R2.fq.gz -o plastome_RS88 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia pinnata - RS8
+get_organelle_from_reads.py -1 RS8_FDSW220016236-1r_1.fq.gz -2 RS8_FDSW220016236-1r_2.fq.gz -o plastome_outputSAR8 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia stipulacea - RS53
+get_organelle_from_reads.py -1 RS53_R1.fq.gz -2 RS53_R2.fq.gz -o plastome_RS53 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia stipulacea - RS54
+get_organelle_from_reads.py -1 RS54_R1.fq.gz -2 RS54_R2.fq.gz -o plastome_RS54 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia volubilis - RS7
+get_organelle_from_reads.py -1 RS7_FDSW220016235-1r_1.fq.gz -2 RS7_FDSW220016235-1r_2.fq.gz -o plastome_outputSAR7 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia volubilis - RS64
+get_organelle_from_reads.py -1 RS64_R1.fq.gz -2 RS64_R2.fq.gz -o plastome_RS64 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia polyadelpha - RS14
+get_organelle_from_reads.py -1 RS14_FDSW220016242-1r_1.fq.gz -2 RS14_FDSW220016242-1r_2.fq.gz -o plastome_outputSAR14 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia polyadelpha - RS85
+get_organelle_from_reads.py -1 RS85_R1.fq.gz -2 RS85_R2.fq.gz -o plastome_RS85 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia polyadelpha - RS86
+get_organelle_from_reads.py -1 RS86_R1.fq.gz -2 RS86_R2.fq.gz -o plastome_RS86 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia cochinchinensis - RS6
+get_organelle_from_reads.py -1 RS6_FDSW220016234-1r_1.fq.gz -2 RS6_FDSW220016234-1r_2.fq.gz -o plastome_outputSAR6 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia cochinchinensis - RS58
+get_organelle_from_reads.py -1 RS58_R1.fq.gz -2 RS58_R2.fq.gz -o plastome_RS58 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia cochinchinensis - RS59
+get_organelle_from_reads.py -1 RS59_R1.fq.gz -2 RS59_R2.fq.gz -o plastome_RS59 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia cochinchinensis - RS41
+get_organelle_from_reads.py -1 RS41_R1.fq.gz -2 RS41_R2.fq.gz -o plastome_RS41 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia ovata - RS5
+get_organelle_from_reads.py -1 RS5_FDSW220016233-1r_1.fq.gz -2 RS5_FDSW220016233-1r_2.fq.gz -o plastome_outputSAR5 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia ovata - RS51
+get_organelle_from_reads.py -1 RS51_R1.fq.gz -2 RS51_R2.fq.gz -o plastome_RS51 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia ovata - RS52
+get_organelle_from_reads.py -1 RS52_R1.fq.gz -2 RS52_R2.fq.gz -o plastome_RS52 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia latifolia - RS24
+get_organelle_from_reads.py -1 V350088755_L02_PLAmhsvR181763-685_1.fq.gz -2 V350088755_L02_PLAmhsvR181763-685_2.fq.gz -o plastome_outputSAR24 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia latifolia - RS63
+get_organelle_from_reads.py -1 RS63_R1.fq.gz -2 RS63_R2.fq.gz -o plastome_RS63 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia latifolia - RS9
+get_organelle_from_reads.py -1 RS9_FDSW220016237-1r_1.fq.gz -2 RS9_FDSW220016237-1r_2.fq.gz -o plastome_outputSAR9 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia melanoxylon - RS25
+get_organelle_from_reads.py -1 V350088755_L02_PLAmhsvR181764-686_1.fq.gz -2 V350088755_L02_PLAmhsvR181764-686_2.fq.gz -o plastome_outputSAR25 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia melanoxylon - RS70
+get_organelle_from_reads.py -1 RS70_R1.fq.gz -2 RS70_R2.fq.gz -o plastome_RS70 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia mimosoides - RS89
+get_organelle_from_reads.py -1 RS89_R1.fq.gz -2 RS89_R2.fq.gz -o plastome_RS89 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia mimosoides - RS90
+get_organelle_from_reads.py -1 RS90_R1.fq.gz -2 RS90_R2.fq.gz -o plastome_RS90 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia mimosoides - RS92
+get_organelle_from_reads.py -1 RS92_R1.fq.gz -2 RS92_R2.fq.gz -o plastome_RS92 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia rostrata - RS27
+get_organelle_from_reads.py -1 RS27_1.fq.gz -2 RS27_2.fq.gz -o plastome_RS27 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia rostrata - RS13
+get_organelle_from_reads.py -1 RS13_FDSW220016241-1r_1.fq.gz -2 RS13_FDSW220016241-1r_2.fq.gz -o plastome_outputSAR13 -R 15 -k 21,45,65,85,105 -F embplant_pt
+### Dalbergia travancoria - RS68
+get_organelle_from_reads.py -1 RS68_R1.fq.gz -2 RS68_R2.fq.gz -o plastome_RS68 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
+### Dalbergia travancoria - RS69
+get_organelle_from_reads.py -1 RS69_R1.fq.gz -2 RS69_R2.fq.gz -o plastome_RS69 -R 15 -k 21,45,65,85,105 -F embplant_pt -t 10
